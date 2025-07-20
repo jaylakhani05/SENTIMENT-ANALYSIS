@@ -17,5 +17,5 @@ The THIS Task, centered around Sentiment Analysis using Natural Language Process
 
 #OUTPUT
 
-
+<img width="2880" height="1704" alt="Image" src="https://github.com/user-attachments/assets/4468baea-1614-46e7-b9e0-dcd74a15a7f8" />
 
